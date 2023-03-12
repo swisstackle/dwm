@@ -1,0 +1,12 @@
+[submodule "dwm-6.3"]
+	path = dwm-6.3
+	url = https://github.com/swisstackle/dwm-6.3.git
+[submodule "dwmblocks"]
+	path = dwmblocks
+	url = https://github.com/swisstackle/dwmblocks.git
+[submodule "dmenu"]
+	path = dmenu
+	url = https://github.com/swisstackle/dmenu.git
+[submodule "st"]
+	path = st
+	url = https://github.com/swisstackle/st.git
