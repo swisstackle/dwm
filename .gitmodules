@@ -10,3 +10,6 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/swisstackle/st.git
+[submodule "slock-1.5"]
+	path = slock-1.5
+	url = https://github.com/swisstackle/slock-1.5.git
